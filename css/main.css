@@ -1,3 +1,8 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+
+}
+
 header{
 	background: url(../img/grupal.jpg);
 	width: 100%;
@@ -7,11 +12,11 @@ header{
 
 .boton{
 	border:1px solid #E1A709;
-	border-radius: 5px;
+	border-radius: 8px;
 	background-color: #E1A709;
-	width: 15%;
-	padding: 10px;
-	margin-bottom: 20px;
+	width: 20%;
+	padding: 15px;
+	margin-bottom: 15px;
 	margin-top: 60px;
 }
 
